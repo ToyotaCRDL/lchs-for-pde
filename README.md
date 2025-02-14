@@ -20,11 +20,11 @@ Physical Review Applied 23, 014063, 2025.
  
 ## Contents
  
-Section IV A, Acoustic simulation: [section4A-waveEq.ipynb](/section4A-waveEq.ipynb)
+Section IV A, Acoustic simulation: [Section4A-waveEq.ipynb](/Section4A-waveEq.ipynb)
 
-Section IV B, LCU coefficient: [section4B-LCU.ipynb](/section4B-LCU.ipynb)
+Section IV B, LCU coefficient: [Section4B-LCU.ipynb](/Section4B-LCU.ipynb)
 
-Section IV B, Heat simulation: [section4B-heatEq.ipynb](/section4B-heatEq.ipynb)
+Section IV B, Heat simulation: [Section4B-heatEq.ipynb](/Section4B-heatEq.ipynb)
 
 Note: codes for Hamiltonian simulation are based on those in [our another repository](https://github.com/ToyotaCRDL/hamiltonian-simulation-for-hyperbolic-pde)
   
